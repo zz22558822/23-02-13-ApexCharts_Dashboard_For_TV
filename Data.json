@@ -1,0 +1,110 @@
+[
+  {
+    "day": -1,
+    "workingDay": 1,
+    "staff": {
+      "staffLeave": 41,
+      "staffNorm": 240,
+      "staffOvertime": 128,
+      "staffLeaveIndirect": 8,
+      "staffNormIndirect": 128,
+      "staffOvertimeIndirect": 2
+    },
+    "machine": {
+      "machineNorm": 90,
+      "machineRepair": 55
+    },
+    "staffAllTotle": 688,
+    "machineAllTotle": 447,
+    "staffAllRemain": 201,
+    "machineAllRemain": 937.6,
+    "staffEstimate": 167,
+    "machineEstimate": 0,
+    "staffConsume": 871,
+    "load": {
+      "TW1231": 9,
+      "TW1232": 19,
+      "TW1237": 105,
+      "TW1239": 34,
+      "TW1921": 0
+    },
+    "Consume": {
+      "TW1231": 2,
+      "TW1232": 0,
+      "TW1237": 0,
+      "TW1239": 0
+    }
+  },
+    {
+      "day": 0,
+      "workingDay": 1,
+      "staff": {
+        "staffLeave": 41,
+        "staffNorm": 240,
+        "staffOvertime": 128,
+        "staffLeaveIndirect": 8,
+        "staffNormIndirect": 128,
+        "staffOvertimeIndirect": 2
+      },
+      "machine": {
+        "machineNorm": 90,
+        "machineRepair": 55
+      },
+      "staffAllTotle": 688,
+      "machineAllTotle": 447,
+      "staffAllRemain": 201,
+      "machineAllRemain": 937.6,
+      "staffEstimate": 167,
+      "machineEstimate": 0,
+      "staffConsume": 871,
+      "load": {
+        "TW1231": 9,
+        "TW1232": 19,
+        "TW1237": 105,
+        "TW1239": 34,
+        "TW1921": 0
+      },
+      "Consume": {
+        "TW1231": 2,
+        "TW1232": 0,
+        "TW1237": 0,
+        "TW1239": 0
+      }
+    },
+    {
+      "day": 1,
+      "workingDay": 1,
+      "staff": {
+        "staffLeave": 0,
+        "staffNorm": 360,
+        "staffOvertime": 0,
+        "staffLeaveIndirect": 8,
+        "staffNormIndirect": 128,
+        "staffOvertimeIndirect": 0
+      },
+      "machine": {
+        "machineNorm": 937.6,
+        "machineRepair": 0
+      },
+      "staffAllTotle": 368,
+      "machineAllTotle": 937.6,
+      "staffAllRemain": 209,
+      "machineAllRemain": 937.6,
+      "staffEstimate": 151,
+      "machineEstimate": 0,
+      "staffConsume": 10,
+      "load": {
+        "TW1231": 10,
+        "TW1232": 30,
+        "TW1237": 42,
+        "TW1239": 68,
+        "TW1921": 0
+      },
+      "Consume": {
+        "TW1231": 1,
+        "TW1232": 0,
+        "TW1237": 8,
+        "TW1239": 1
+      }
+    }
+  ]
